@@ -13,9 +13,13 @@
 
 ## :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Android applications.
 
 - :seedling: Exploring Technical Content Writing.
+
+- Hard-Working, Professional with 1+ Years of Experience
+
+- Can adapt to any environment and work with ease
 
 ### :hammer_and_wrench: Some Languages I Speak :
 
