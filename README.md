@@ -21,7 +21,7 @@
 
 - Can adapt to any environment and work with ease
 
-- My Socials : <a href="https://twitter.com/BajwaShb_">Twitter</a> | <a href="https://www.instagram.com/_sulemanbajwa/">Instagram</a>
+- My Socials : <a href="https://twitter.com/BajwaShb_">Twitter</a> | <a href="https://www.instagram.com/sulemanxbajwa/">Instagram</a>
 
 ### :hammer_and_wrench: Some Languages I Speak :
 
