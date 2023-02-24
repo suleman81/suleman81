@@ -1,0 +1,6 @@
+{
+"SimpleVideoPlayer": {
+"value": false,
+"msg": "App has been stopped!"
+}
+}
