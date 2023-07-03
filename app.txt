@@ -1,6 +1,9 @@
 {
-"SimpleVideoPlayer": {
-"value": true,
-"msg": "App has been stopped!"
-}
+"isAdmob": true,
+"version_num": 1.0.0,
+"force_update": false,
+"admob_rewarded": "ca-app-pub-3940256099942544/5354046379",
+"admob_intersitial": "ca-app-pub-3940256099942544/1033173712",
+"facebook_rewarded": "YOUR_PLACEMENT_ID",
+"facebook_intersitial": "YOUR_PLACEMENT_ID",
 }
