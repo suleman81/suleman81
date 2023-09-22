@@ -1,9 +1,35 @@
+[
 {
-"isAdmob": true,
-"version_num": 1,
-"force_update": true,
-"admob_rewarded_video": "ca-app-pub-3940256099942544/5354046379",
-"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-"facebook_rewarded_video": "YOUR_PLACEMENT_ID",
-"facebook_interstitial": "YOUR_PLACEMENT_ID"
-}
+"title" : "Booking Request",
+"msg" : "specific message  here",
+"link" : "https://secret-service.be/",
+"priority" : "high",
+"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU",
+},
+
+{
+"title" : "Booking Confirmation",
+"msg" : "specific message  here",
+"link" : "https://google.com",
+"priority" : "high",
+"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU",
+},
+
+
+{
+"title" : "Booking Cancellation",
+"msg" : "specific message  here",
+"link" : "https://secret-service.be/",
+"priority" : "high",
+"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU",
+},
+
+
+{
+"title" : "SMS credit",
+"msg" : "specific message  here",
+"link" : "https://google.com",
+"priority" : "high",
+"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU",
+},
+]
