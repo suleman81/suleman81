@@ -1,30 +1,6 @@
-[
 {
-"title" : "Booking Request",
-"msg" : "specific message  here",
-"link" : "https://secret-service.be/",
-"priority" : "high",
-"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU"
+"clappingapp": {
+"value": false,
+"msg": "App has been stop working"
 },
-{
-"title" : "Booking Confirmation",
-"msg" : "specific message  here",
-"link" : "https://google.com",
-"priority" : "high",
-"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU"
-},
-{
-"title" : "Booking Cancellation",
-"msg" : "specific message  here",
-"link" : "https://secret-service.be/",
-"priority" : "high",
-"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU"
-},
-{
-"title" : "SMS credit",
-"msg" : "specific message  here",
-"link" : "https://google.com",
-"priority" : "high",
-"icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKiNz3KDNR15U_GLnMVsZQLYtYo60wG1e6g&usqp=CAU"
 }
-]
