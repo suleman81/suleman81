@@ -1,6 +1,6 @@
 {
 "tutordude": {
-"value": true,
+"value": false,
 "msg": "App has been stop working"
 }
 }
