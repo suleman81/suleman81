@@ -1,6 +1,6 @@
 {
 "tutordude": {
-"value": false,
+"value": true,
 "msg": "App has been stop working"
 }, 
 "rtspcamera": {
