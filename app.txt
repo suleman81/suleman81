@@ -1,10 +1,6 @@
 {
-"tutordude": {
+"capturingbanking": {
 "value": false,
-"msg": "App has been stop working"
-}, 
-"rtspcamera": {
-"value": true,
 "msg": "App has been stop working"
 }
 }
